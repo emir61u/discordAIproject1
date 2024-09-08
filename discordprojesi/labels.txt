@@ -1,0 +1,4 @@
+0 guvercin
+1 serce
+2 kedi
+3 kutupayisi
