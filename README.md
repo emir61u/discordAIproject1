@@ -1,2 +1,2 @@
 Bu proje  "$kontrol" komutu ile discord sunucusuna atılan kutup ayısı, kedi, serçe, güvercin resimlerini tanıyarak bu resimlerin sözü edilen hayvanlardan hangisine ait olduğunu bulur. Ayrıca sunucuya atılan resmin visual studio code'a kaydedilmesini sağlar ve bu kayıt işleminden sonra kullanıcıya "Resim başarıyla kaydedildi." mesajını verir. Bu projede kullanılan kütüphaneler "pipfile" dosyasında kütüphanelerin sürümleriyle birlikte bulunmaktadır.
-![bu açıklamada gördüğünüz gibi](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.pinterest.com%2Fkaraorcun%2Fkedi-resimleri%2F&psig=AOvVaw0tlUdJU7r386YRgr-XNBC7&ust=1726487399681000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICQ_ffwxIgDFQAAAAAdAAAAABAE)
+
